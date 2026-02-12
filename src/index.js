@@ -134,7 +134,7 @@ resolver.define('check-task-status', async (req) => {
     };
   }
   
-  // Get progress if available
+  // Get progress if available over there
   const progress = await storage.get(`task-${taskId}-progress`) || taskData.progress || 0;
   
   return {
