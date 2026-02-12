@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forge Hello World
 
 This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira admin page. 
@@ -45,3 +46,6 @@ forge install
 
 See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how to get help and provide feedback.
 
+=======
+# Forge-task
+>>>>>>> ea30becab44dba3678d38dd342f98cfe0048e129
